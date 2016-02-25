@@ -1,32 +1,40 @@
 p
 {
-	background-color: blue;
-	color: white;
+	background-color: white;
+	color: black;
 	font-family: arial;
-	font-size: 22pt;
+	font-size: 12pt;
 }
 p.normal{
-	background-color: gray;
+	background-color: white;
 	color: black;
 	font-family: arial;
 	font-size: 22pt;
+}
 body
 {
-	background-image: url(img_flwr.gif);
+	background-image: url(http://communityaffects.com/wp-content/uploads/2015/03/Grey_Grunge5-1024x682.jpg);
 	background-size: 100%;
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-color: red;
 	background-attachment: fixed;
 
 }
 a
 {
-    background-color: blue;
-    color: red;
+	background-color: black;
+    	color: white;
+	font-family: arial;
+	font-size: 22pt;
+}
+
+a.backToHome
+{
+	font-size: 12pt;
 }
 
 a:hover
 {
-    background-color: red;
-    color: blue
+    background-color: white;
+    color: black
 }
