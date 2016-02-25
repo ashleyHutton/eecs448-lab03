@@ -1,0 +1,32 @@
+p
+{
+	background-color: blue;
+	color: white;
+	font-family: arial;
+	font-size: 22pt;
+}
+p.normal{
+	background-color: gray;
+	color: black;
+	font-family: arial;
+	font-size: 22pt;
+body
+{
+	background-image: url(img_flwr.gif);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color: red;
+	background-attachment: fixed;
+
+}
+a
+{
+    background-color: blue;
+    color: red;
+}
+
+a:hover
+{
+    background-color: red;
+    color: blue
+}
